@@ -1,0 +1,15 @@
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.AssemblyInfoInputs.cache
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.AssemblyInfo.cs
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.csproj.CoreCompileInputs.cache
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.sourcelink.json
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\bin\Debug\net8.0\CalculatorForTests.exe
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\bin\Debug\net8.0\CalculatorForTests.deps.json
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\bin\Debug\net8.0\CalculatorForTests.runtimeconfig.json
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\bin\Debug\net8.0\CalculatorForTests.dll
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\bin\Debug\net8.0\CalculatorForTests.pdb
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.dll
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\refint\CalculatorForTests.dll
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.pdb
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\CalculatorForTests.genruntimeconfig.cache
+C:\Users\mattb\Documents\GitHub\capstone-project-just-nom-Matthew-J-Bays\CalculatorForTests\CalculatorForTests\obj\Debug\net8.0\ref\CalculatorForTests.dll
