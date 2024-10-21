@@ -1,0 +1,6 @@
+name: Calculator Unit Test
+
+on:
+  push:
+    branches:
+      - main
