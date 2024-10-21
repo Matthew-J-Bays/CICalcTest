@@ -19,7 +19,7 @@ jobs:
         dotnet-version: '8.0'
         
     - name: Install Test Platform
-      working-directory: /home/runner/work/CICalcTest/CICalcTest/CalculatorForTests/CalculatorForTests
+      working-directory: /home/runner/work/CICalcTest/CICalcTest/CalculatorForTests
       run: dotnet add package Microsoft.TestPlatform --version 17.5.0
 
     - name: Dependency Restore
